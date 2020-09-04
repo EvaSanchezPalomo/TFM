@@ -54,7 +54,7 @@ Los programas o librerías utilizados han sido los siguientes:
  
     Vemos que debido al shock que ha supuesto el Covid19, la predicción durante los meses de marzo, abril y mayo ha sido errónea (la predicción en rojo y datos reales en verde)
 
--	4. Abrir el código ‘Geolocalizacion’ (en la carpeta 2. Codigo de este repositorio). En dicho código se realizará el siguiente análisis:
+-	4. Abrir el código ‘Geolocalizacion’ https://github.com/EvaSanchezPalomo/TFM/blob/master/2.%20Codigo/Geolocalizacion.ipynb. En dicho código se realizará el siguiente análisis:
 
     a. Visualizar la localización de los puntos de concentración de accidentes mortales, que han tenido fallecidos, con el fin de detectar si hay tramos donde se concentren accidentes en las carreteras/calles de Madrid y donde se situan.
 
@@ -80,4 +80,4 @@ Los programas o librerías utilizados han sido los siguientes:
 
 - Con respecto a la predicción del número de accidentes, aunque parecía que la predicción si parecía bastante fiable, esta finalmente ha sido errónea. Ha sido bastante lógico que esto fuera asi, ya que el shock que ha supuesto el Covid19, era muy difícil de predecir. Como ya se comento anteriormente, esto es una prueba de que no nos podemos fiar ciegamente en los modelos y de que tenemos que tener en cuenta que puede haber errores en la predicción.
 
-- Por último, con respecto a la localización de los puntos de concentración de accidentes, ha sido posible obtenerla y compararla con la localización de los radares. Pudiendo, dar la conclusión de que no hay evidencia de que la ubicación de los radares se establezca según la localización de los puntos de concentración de accidentes.
+- Por último, con respecto a la localización de los puntos de concentración de accidentes, ha sido posible obtenerla y compararla con la localización de los radares. Pudiendo, dar la conclusión de que no hay evidencia de que la ubicación de los radares se establezca según la localización de los puntos de concentración de accidentes mortales.
